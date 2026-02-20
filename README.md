@@ -21,7 +21,7 @@ Currently advancing expertise in native iOS development and modern frontend ecos
 ##  Core Technical Expertise
 
 ###  Programming Languages
-Dart • Swift • Kotlin • JavaScript
+Dart • Swift • Kotlin • JavaScript • TypeScript 
 
 ###  Mobile Development
 Flutter • Kotlin (Android) • Swift (iOS) • SwiftUI  
@@ -41,7 +41,7 @@ Secure Backend Architecture & Server Management
 Razorpay • WhatsApp APIs • Facebook Lead Ads  
 Webhooks • Payment Gateway Integrations
 
-### ⚙ DevOps & Deployment
+###  DevOps & Deployment
 Git • GitHub Actions • Codemagic (CI/CD)  
 Firebase Hosting  
 Google Play Store & Apple App Store Deployment  
