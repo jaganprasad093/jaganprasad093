@@ -13,8 +13,8 @@ Skilled in architecting end-to-end solutions with a strong focus on performance 
 
 Currently advancing expertise in native iOS development and modern frontend ecosystems.
 
-📧 **Email:** jaganprasad094@gmail.com  
-📱 **Phone:** +91 9400130828  
+ **Email:** jaganprasad094@gmail.com  
+ **Phone:** +91 9400130828  
 
 ---
 
@@ -55,9 +55,9 @@ Design Systems • Scalable & Maintainable UI Architecture
 
 ##  GitHub Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaganprasad093&show_icons=true&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaganprasad093&theme=github_dark)
 
 ---
 
