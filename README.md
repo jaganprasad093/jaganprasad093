@@ -50,7 +50,7 @@ Design Systems • Scalable & Maintainable UI Architecture
 https://www.linkedin.com/in/jagan-prasad-805b27280/
 
 🔗 **Portfolio:**
-https://portfolio-two-blue-nd65lhx7v5.vercel.app/
+jaganprasad-portfolio.vercel.app
 
 🔗 **Linktree:**
 https://linktr.ee/jagan
