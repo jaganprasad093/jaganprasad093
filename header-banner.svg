@@ -1,0 +1,13 @@
+<svg width="100%" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="160" fill="url(#bg)"/>
+  <path d="M0,140 C150,110 300,170 450,140 C600,110 750,170 900,140 C1050,110 1150,150 1200,140 L1200,160 L0,160 Z" fill="#1a1730" opacity="0.6"/>
+  <text x="600" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">Jagan Prasad</text>
+  <text x="600" y="102" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#a78bfa" text-anchor="middle">Full-Stack Developer &amp; Team Lead</text>
+</svg>
