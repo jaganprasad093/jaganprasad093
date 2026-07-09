@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Jagan%20Prasad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%26%20Team%20Lead&descAlignY=62&descSize=16&descColor=a78bfa"/>
+<img width="100%" src="header-banner.svg"/>
 
 **Building end-to-end products across mobile, web, and cloud — from architecture to App Store.**
 
@@ -112,6 +112,6 @@ Open to full-stack and mobile roles in Kochi and Bangalore, and to collaboration
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<sub>Thanks for stopping by 👋</sub>
 
 </div>
